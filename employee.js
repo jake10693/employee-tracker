@@ -1,8 +1,8 @@
-// Last edited 3/23/20 
-//  Further steps to take
-// 1. lists for viewing
-// 2. auto-assignment of different id's
-// 3. update capabilities for employee roles 
+// Last edited 3/24/20 
+//  MVP ready - Potential fluff to be added:
+// 1. add a seperate table for managers
+// 2. change code to remove imput prompts except for names/new job titles
+
 
 const inquirer = require("inquirer");
 const mysql = require("mysql");
